@@ -1,6 +1,6 @@
 <script type="text/javascript">
-    console.log("Made to the script");
-    var engraver = engraver.init("preview-canvas");
+    console.log("Made it to the script");
+    engraver.init("preview-canvas");
 
     console.log("engraver initialized")
     engraver.setProduct('f9e7abfe-e4c3-4541-9b3f-563289994ba2').then(function () {
