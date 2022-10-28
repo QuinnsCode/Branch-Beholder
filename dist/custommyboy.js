@@ -2,7 +2,7 @@
     console.log("Made it to the script");
 //     engraver.init("preview-canvas");
 
-//     console.log("engraver initialized")
+//     console.log("engraver initialized");
 //     engraver.setProduct('f9e7abfe-e4c3-4541-9b3f-563289994ba2').then(function () {
 //       // engraver.setImage(1, "http://i.imgur.com/9S2IPKz.jpg").then(function(){
 //       // });
