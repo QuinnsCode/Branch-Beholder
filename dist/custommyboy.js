@@ -1,5 +1,5 @@
 <script type="text/javascript">
-    console.log("Made to the script")
+    console.log("Made to the script");
     engraver.init("preview-canvas");
 
     console.log("engraver initialized")
